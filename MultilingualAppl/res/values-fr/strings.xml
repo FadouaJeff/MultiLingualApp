@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application Multi Langage</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Mot de Passe</string>
+    <string name="login">Identifier</string>
+    <string name="signup">Inscrire</string>
+
+    <string-array name="languages">
+        <item>Choisir la langue</item>
+        <item>Deutsch</item>
+        <item>Francais</item>
+        <item>English</item>
+        <item>العربية</item>
+    </string-array>
+
+</resources>
